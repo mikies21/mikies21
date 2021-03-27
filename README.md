@@ -4,7 +4,7 @@ In addition to my research I am interested in data analysis, machin learning mod
 
 ### 🔭 I’m currently working on:
 apart from my PhD project (which takes alot of my time)
-- beetlesNMR: an R package which for analysis of NMR metabolomics data based on my reporting needs which include scaling and normalisation, PCA and PLS-DA plots, PLS-DA classification metrics, correlation reliability score, and much more.
+- [**beetlesNMR**](https://github.com/mikies21/beetlesNMR): an R package which for analysis of NMR metabolomics data based on my reporting needs which include scaling and normalisation, PCA and PLS-DA plots, PLS-DA classification metrics, correlation reliability score, and much more.
 - ShinybeetleNMR: a shiny app built upon the beetlesNMR package which provides quick reporting and fast data exploration. without the need to work directly with R and Rstudio
 - Other side projects involving shiny applications
 - learning python in my spare time
@@ -15,6 +15,8 @@ apart from my PhD project (which takes alot of my time)
 - I had no coding experience before March 2020 (when the pandemic started) and now I'm hooked on it
 - I appreciate good memes
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mikies21&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/mikies21?template=classic&config.timezone=Europe%2FBerlin)
 
 <!--
 **mikies21/mikies21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
