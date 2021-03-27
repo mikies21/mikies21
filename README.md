@@ -1,6 +1,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/mikies21?label=Follow%20me&style=flat-square&logo=github&logoColor=white&colorB=4CAF50)](https://github.com/login?return_to=%2Fmikies21)
 [![Twitter Follow](https://img.shields.io/twitter/follow/micfresneda?label=%20%40micfresnedal&style=flat-square&labelColor=2196F3&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/micfresneda)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/michele-fresneda-alarcon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-fresneda-alarcon/)
 
 
 ## Hi there 👋
