@@ -10,7 +10,7 @@ In addition to my research I am interested in data analysis, machin learning mod
 ### 🔭 I’m currently working on:
 apart from my PhD project (which takes alot of my time)
 - [**beetlesNMR**](https://github.com/mikies21/beetlesNMR): an R package which for analysis of NMR metabolomics data based on my reporting needs which include scaling and normalisation, PCA and PLS-DA plots, PLS-DA classification metrics, correlation reliability score, and much more.
-- ShinybeetleNMR: a shiny app built upon the beetlesNMR package which provides quick reporting and fast data exploration. without the need to work directly with R and Rstudio
+- [**ShinybeetleNMR**](https://github.com/mikies21/ShinybeetleNMR): a shiny app built upon the beetlesNMR package which provides quick reporting and fast data exploration. without the need to work directly with R and Rstudio. App available here https://mikies21.shinyapps.io/shinybeetlenmr/
 - Other side projects involving shiny applications
 - learning python in my spare time
 
