@@ -18,7 +18,7 @@ apart from my PhD project (which takes alot of my time)
 
 ### ⚡ Fun facts:
 - I'm an ex gymnast and can still do all sort of flips. My favourite apparatus was the high bar and I competed in the Italia Serie A (premier league) of gymnastics
-- I speak fluetly English, Italian and Spanish
+- I speak fluently English, Italian and Spanish
 - I had no coding experience before March 2020 (when the pandemic started) and now I'm hooked on it
 - I appreciate good memes
 
